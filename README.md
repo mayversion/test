@@ -5,10 +5,10 @@
 <br />  
 <div align="center">
   <a href="">
-    <img src="BrainQuest" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mayversion/test/blob/main/BrainQuest%20logo%20(3).png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BrainQuest logo(3).png</h3>
+  <h3 align="center">BrainQuest</h3>
 
   <p align="center">
     An engaging and interactive quiz app designed to challenge and entertain users of all ages!
