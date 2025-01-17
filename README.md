@@ -8,7 +8,7 @@
     <img src="https://github.com/mayversion/test/blob/main/BrainQuest%20logo%20(3).png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BrainQuest</h3>
+  <h3 align="center">DevQuiz</h3>
 
   <p align="center">
     An engaging and interactive quiz app designed to challenge and entertain users of all ages!
@@ -43,7 +43,7 @@
 
 ## About The Project  
 
-**BrainQuest** is an engaging and interactive quiz app designed to challenge and entertain users of all ages. It uniquely blends fun and learning, making it perfect for students, trivia enthusiasts, and anyone eager to expand their knowledge in an enjoyable way.  
+**DevQuiz** is an engaging and interactive quiz app designed to challenge and entertain users of all ages. It uniquely blends fun and learning, making it perfect for students, trivia enthusiasts, and anyone eager to expand their knowledge in an enjoyable way.  
 
 ### Key Features  
 
@@ -59,7 +59,7 @@
 
 ### Built With  
 
-The BrainQuest app leverages the following technologies and tools:  
+The DevQuiz app leverages the following technologies and tools:  
 - **Python**: Core language for backend logic and functionality.  
 - **Django**: Framework used for building the web application.  
 - **HTML & CSS**: For creating an intuitive and user-friendly front-end interface.  
@@ -102,7 +102,7 @@ The BrainQuest app leverages the following technologies and tools:
 
 ## Usage  
 
-_Add examples or scenarios of how users interact with BrainQuest here. Include screenshots, mockups, or a description of features like exporting quiz results or using the timer._  
+_Add examples or scenarios of how users interact with DevQuiz here. Include screenshots, mockups, or a description of features like exporting quiz results or using the timer._  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
