@@ -5,7 +5,7 @@
 <br />  
 <div align="center">
   <a href="">
-    <img src="https://github.com/mayversion/test/blob/main/BrainQuest%20logo%20(3).png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mayversion/test/blob/main/DevQUIZ.webp" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DevQuiz</h3>
