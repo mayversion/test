@@ -137,8 +137,10 @@ Special thanks to the contributors who made this project possible:
 
 **Ghribi Ahlem**  
 [GitHub](https://github.com/Ahlamghribi) - [Email](mailto:your_email@example.com)  
+
 **Laidli Besmella Meriem**
-[GitHub](https://github.com/besmalam) - [Email](mailto:your_email@example.com)
+[GitHub](https://github.com/besmalam)  - [Email](mailto:your_email@example.com)
+
 **Mehenni May Fatma Zohra**
 [GitHub](https://github.com/may07082004)  - [Email](mailto:maymhenni1@gmail.com)  
 [GitHub](https://github.com/mayversion)    - [Email](mailto:maymhenni1@gmail.com)  
