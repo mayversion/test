@@ -102,7 +102,8 @@ The DevQuiz app leverages the following technologies and tools:
 
 ## Usage  
 
-_Add examples or scenarios of how users interact with DevQuiz here. Include screenshots, mockups, or a description of features like exporting quiz results or using the timer._  
+[![Watch the video](URL_de_la_vignette)](URL_de_la_video)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
