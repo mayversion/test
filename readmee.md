@@ -145,12 +145,25 @@ python manage.py runserver
 - 🎨 Customizable interface themes
 - 📊 Advanced analytics dashboard
 
+
 ## 👥 Meet the Team
 
-We're a group of passionate computer science students working together to make learning more engaging!
+We're a group of passionate Cyber Security students from USTHB working together to make learning more engaging!
 
-### Our Amazing Team
+- **Ghribi Ahlem**
+  - Cyber Security enginnering Student at usthb 
+  - 📧 ahlamghribi77@gmail.com
+  - 💼 [Github](https://github.com/Ahlamghribi)
 
+- **Mehenni May Fatma Zohra**
+  - Cyber Security enginnering Student at usthb 
+  - 📧 
+  - 💼 [Github](https://github.com/)
+
+- **Laidli Besmella Meriem**
+  - Cyber Security enginnering Student at usthb 
+  - 📧 
+  - 💼 [Github](https://github.com/)
 <div align="center">
 
 |<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|
@@ -179,44 +192,9 @@ We love hearing from fellow students! Share your suggestions through:
 
 ## 📜 License
 
-DevQuiz is proudly open source .
+DevQuiz is proudly open source . 
 
----
-[Previous sections remain the same until the Team section...]
-
-## 👥 Meet the Team
-
-We're a group of passionate computer science students from ESI Algiers working together to make learning more engaging!
-
-### Our Amazing Team
-
-<div align="center">
-
-|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|
-|:---:|:---:|:---:|
-|**Ghribi Ahlem**|**Mehenni May Fatma Zohra**|**Laidli Besmella Meriem**|
-|[GitHub](https://github.com/Ahlamghribi)|[GitHub](https://github.com/mayversion)|[GitHub](https://github.com/besmelaa)|
-
-</div>
-
-### Contact Information
-
-- **Ghribi Ahlem**
-  - Cyber Security enginnering Student at usthb 
-  - 📧 ahlamghribi77@gmail.com
-  - 💼 [Github](https://github.com/Ahlamghribi)
-
-- **Mehenni May Fatma Zohra**
-  - Cyber Security enginnering Student at usthb 
-  - 📧 
-  - 💼 [Github](https://github.com/)
-
-- **Laidli Besmella Meriem**
-  - Cyber Security enginnering Student at usthb 
-  - 📧 
-  - 💼 [Github](https://github.com/)
-
-[Rest of the document remains the same...]
+ 
 <div align="center">
 
 ### 🌟 Star us on GitHub!
