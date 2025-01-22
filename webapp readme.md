@@ -13,7 +13,7 @@ Transform your study sessions into engaging quiz adventures!
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
 
-[Launch Demo](https://github.com/Ahlamghribi/Advanced-Programming-Project) • 
+[SEE THE VIDEO :]([https://github.com/Ahlamghribi/Advanced-Programming-Project](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)) • 
 
 </div>
 
@@ -113,11 +113,6 @@ python manage.py runserver
 - Export progress reports
 - Set study goals
 
-<div align="center">
-  [![Watch the video]](https://www.youtube.com/watch?v=CJ5jaRJbsCQ)
-</div>
-
-
 ## 🔮 Future Plans
 
 ### Coming Soon!
@@ -147,14 +142,6 @@ We're a group of passionate Cyber Security students from USTHB working together 
   - Cyber Security enginnering Student at usthb 
   - 📧 besmelalaidli@gmail.com
   - 💼 [Github](https://github.com/)
-<div align="center">
-
-**Ghribi Ahlem** [GitHub](https://github.com/Ahlamghribi)
-**Mehenni May Fatma Zohra** [GitHub](https://github.com/mayversion)
-**Laidli Besmella Meriem** [GitHub](https://github.com/besmalam)
-
-
-</div>
 
 ## 🤝 Contributing
 
