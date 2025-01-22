@@ -149,9 +149,10 @@ We're a group of passionate Cyber Security students from USTHB working together 
   - 💼 [Github](https://github.com/)
 <div align="center">
 
-|:---:|:---:|:---:|
-|**Ghribi Ahlem**|**Mehenni May Fatma Zohra**|**Laidli Besmella Meriem**|
-|[GitHub](https://github.com/Ahlamghribi)|[GitHub](https://github.com/mayversion)|[GitHub](https://github.com/besmalam)|
+**Ghribi Ahlem** [GitHub](https://github.com/Ahlamghribi)
+**Mehenni May Fatma Zohra** [GitHub](https://github.com/mayversion)
+**Laidli Besmella Meriem** [GitHub](https://github.com/besmalam)
+
 
 </div>
 
