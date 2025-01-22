@@ -23,7 +23,7 @@ Transform your study sessions into engaging quiz adventures!
 **👆 Click to watch our demo video!**
 
 </div>
----
+</div>
 
 ## 📋 Table of Contents
 
