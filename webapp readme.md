@@ -13,7 +13,8 @@ Transform your study sessions into engaging quiz adventures!
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
 
-[![SEE THE VIDEO :](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fdemo_5167574&psig=AOvVaw2fJ5e5O4g70r7dD__7jSvK&ust=1737674926350000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCtt9m9iosDFQAAAAAdAAAAABAE)](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
+[![SEE THE VIDEO :](![image](https://github.com/user-attachments/assets/e50290a8-3ed9-4281-b90f-d44e28c6d4e2)
+)](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
 
 </div>
 
