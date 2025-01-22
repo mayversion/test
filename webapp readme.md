@@ -12,12 +12,17 @@ Transform your study sessions into engaging quiz adventures!
 [![Built with Django](https://img.shields.io/badge/Built_With-Django-green.svg)](https://www.djangoproject.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
+[Previous sections remain the same...]
 
-[![SEE THE VIDEO :](![image](https://github.com/user-attachments/assets/e50290a8-3ed9-4281-b90f-d44e28c6d4e2)
-)](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
+## 📹 Watch DevQuiz in Action!
+
+<div align="center">
+
+[![Watch DevQuiz Demo](https://github.com/user-attachments/assets/e50290a8-3ed9-4281-b90f-d44e28c6d4e2)](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
+
+**👆 Click to watch our demo video!**
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
