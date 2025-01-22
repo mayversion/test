@@ -114,6 +114,9 @@ python main.py
 - Export history reports (CSV).
 - Set study goals.
 
+ [vidéo sur Google Drive](https://drive.google.com/file/d/1PaUCZltUZmQO0-xAWQyb3DYvAymPQxbb/view) pour plus de détails.
+
+
 ## 🔮 Future Plans
 
 ### Coming Soon!
