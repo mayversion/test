@@ -44,14 +44,10 @@ DevQuiz is your go-to study companion, designed by students, for students! Wheth
 
 ### 🎮 Student-Focused Learning
 - **Smart Study Sessions**
-  - Timed quizzes that match exam conditions
-  - Progress tracking to identify weak areas
-  - Instant feedback for better retention
+  - Timed quizzes that match exam conditions 
 
 ### 📊 Performance Analytics
 - **Track Your Growth**
-  - Visual progress charts
-  - Performance statistics by topic
   - Study time tracking
   - Exportable results for personal analysis
 
@@ -62,19 +58,11 @@ DevQuiz is your go-to study companion, designed by students, for students! Wheth
   - Create study groups
   - Challenge friends
 
-### 🎯 Academic Focus
-- **Course-Aligned Content**
-  - Material mapped to university courses
-  - Practice exam questions
-  - Concept-based learning modules
-  - Custom quiz creation
-
 ## 🔧 Technology Stack
 
 ### Core Technologies
 ```
 🔹 Python - Robust Backend
-🔹 SQLite - Data Management
 ```
 
 ### Key Libraries
@@ -123,7 +111,7 @@ python main.py
 ### 3⃣ Study Analytics
 - View your performance summary after each quiz.
 - Identify topics for improvement.
-- Export progress reports (CSV).
+- Export history reports (CSV).
 - Set study goals.
 
 ## 🔮 Future Plans
@@ -147,19 +135,19 @@ We're a group of passionate Cyber Security students from USTHB working together 
 
 - **Mehenni May Fatma Zohra**
   - Cyber Security Engineering Student at USTHB
-  - 📧
+  - 📧 maymehenni1@gmail.com
   - 💼 [Github](https://github.com/)
 
 - **Laidli Besmella Meriem**
   - Cyber Security Engineering Student at USTHB
-  - 📧
+  - 📧 besmelalaidli@gmail.com
   - 💼 [Github](https://github.com/)
 <div align="center">
 
 |<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|<img src="/api/placeholder/100/100" alt="Team Member" width="100px" height="100px" style="border-radius:50%">|
 |:---:|:---:|:---:|
 |**Ghribi Ahlem**|**Mehenni May Fatma Zohra**|**Laidli Besmella Meriem**|
-|[GitHub](https://github.com/Ahlamghribi)|[GitHub]|[GitHub]|
+|[GitHub](https://github.com/Ahlamghribi)|[GitHub](https://github.com/mayversion)|[GitHub](https://github.com/besmalam)|
 
 </div>
 
@@ -191,14 +179,5 @@ DevQuiz is proudly open source.
 Made with ❤️ by Students, for Students
 
 [🖝 Back to Top](#-devquiz)
-
-</div>
-
-
-### 🌟 Star us on GitHub!
-
-Made with ❤️ by Students, for Students
-
-[🔝 Back to Top](#-devquiz)
 
 </div>
