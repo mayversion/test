@@ -135,6 +135,7 @@ python manage.py runserver
   [![Watch the video](https://github.com/mayversion/test/blob/main/Capture%20d'%C3%A9cran%202025-01-22%20220920.png)](https://www.youtube.com/watch?v=CJ5jaRJbsCQ)
 </div>
 
+
 ## 🔮 Future Plans
 
 ### Coming Soon!
