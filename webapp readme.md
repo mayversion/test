@@ -6,8 +6,6 @@
 
 ---
 
-### 📚 Your Ultimate Student Learning Companion
-
 Transform your study sessions into engaging quiz adventures!
 
 [![Made for Students](https://img.shields.io/badge/Made_For-Students-blue.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
@@ -16,8 +14,6 @@ Transform your study sessions into engaging quiz adventures!
 [![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
 
 [Launch Demo](https://github.com/Ahlamghribi/Advanced-Programming-Project) • 
-[Report Bug](https://github.com/Ahlamghribi/Advanced-Programming-Project/issues/new?labels=bug&template=bug-report---.md) • 
-[Request Feature](https://github.com/Ahlamghribi/Advanced-Programming-Project/issues/new?labels=enhancement&template=feature-request---.md)
 
 </div>
 
