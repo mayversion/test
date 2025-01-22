@@ -106,7 +106,7 @@ git clone https://github.com/Ahlamghribi/Advanced-Programming-Project.git
 cd Advanced-Programming-Project
 
 # Install required packages
-pip install -r requirements.txt
+pip install -r Django
 
 # Launch the app
 python manage.py runserver
