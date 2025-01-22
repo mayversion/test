@@ -12,7 +12,6 @@ Transform your study sessions into engaging quiz adventures!
 [![Built with Django](https://img.shields.io/badge/Built_With-Django-green.svg)](https://www.djangoproject.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/Ahlamghribi/Advanced-Programming-Project)
-[Previous sections remain the same...]
 
 ## 📹 Watch DevQuiz in Action!
 
