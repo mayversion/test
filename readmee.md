@@ -1,4 +1,3 @@
-
 <a id="readme-top"></a>
 
 <br />  
@@ -42,7 +41,13 @@
 
 ## About The Project  
 
-**DevQuiz** is an engaging and interactive quiz app designed to challenge and entertain users of all ages. It uniquely blends fun and learning, making it perfect for students, trivia enthusiasts, and anyone eager to expand their knowledge in an enjoyable way.  
+**DevQuiz** is an engaging and interactive quiz app designed to challenge and entertain users of all ages. It uniquely blends fun and learning, making it perfect for students, trivia enthusiasts, and anyone eager to expand their knowledge in an enjoyable way. The project consists of two versions:  
+
+### 1. Web App (Django Version)
+A web application built with Django, featuring a dynamic and responsive interface. The app enables users to take quizzes, track their history, and export results, making it ideal for online learning and testing.
+
+### 2. Dapp (Decentralized Application)
+The Dapp is built to function on a decentralized network, leveraging blockchain technology to provide secure and transparent quiz data storage, as well as rewards and tokens for users based on their performance.
 
 ### Key Features  
 
@@ -51,6 +56,7 @@
 - **Different Modules**: Tailored modules to suit various interests and learning styles.  
 - **Built-in Timers**: A timer for each question and the entire quiz to add urgency and excitement.  
 - **Feedback for Answers**: Help users improve with detailed feedback on their answers.  
+- **Decentralization**: The Dapp version ensures secure and transparent quiz data management with the use of blockchain.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,6 +65,8 @@
 ### Built With  
 
 The DevQuiz app leverages the following technologies and tools:  
+
+#### Web App (Django Version):
 - **Python**: Core language for backend logic and functionality.  
 - **Django**: Framework used for building the web application.  
 - **HTML & CSS**: For creating an intuitive and user-friendly front-end interface.  
@@ -71,6 +79,12 @@ The DevQuiz app leverages the following technologies and tools:
   - `datetime`: Logging timestamps for quiz history and performance tracking.  
   - `csv`: Exporting quiz results to CSV format for detailed analysis.  
 
+#### Dapp (Decentralized Application):
+- **Solidity**: Smart contract development for decentralized interactions.  
+- **Ethereum**: Blockchain platform for running the decentralized application.  
+- **Web3.js**: A JavaScript library to interact with the Ethereum blockchain and smart contracts.  
+- **Truffle**: A framework for smart contract development, testing, and deployment on the Ethereum network.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -78,73 +92,8 @@ The DevQuiz app leverages the following technologies and tools:
 ## Installation  
 
 ### Prerequisites  
-1. Install Python.  
-2. Install required libraries:  
+1. Install Python (for Web App).  
+2. Install Node.js and npm (for Dapp).  
+3. Install required libraries for Web App:  
    ```sh
    pip install -r requirements.txt
-   ```  
-
-### Installation Steps  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/Ahlamghribi/Advanced-Programming-Project.git
-   ```  
-2. Navigate to the project directory.  
-3. Run the application:  
-   ```sh
-   python manage.py runserver
-   ```  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Usage  
-
-[![Watch the video](URL_de_la_vignette)](URL_de_la_video)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Roadmap  
-
- 
-- [ ] Add support for more quiz categories.  
-- [ ] Integrate a leaderboard system.  
-- [ ] Add multilingual support.  
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## Acknowledgments  
-
-Special thanks to the contributors who made this project possible:  
-- **Ghribi Ahlem**  
-- **Mehenni May Fatma Zohra**  
-- **Laidli Besmella Meriem**  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-
-
-## Contact  
-
-**Ghribi Ahlem**  
-[GitHub](https://github.com/Ahlamghribi) - [Email](mailto:your_email@example.com)  
-
-**Laidli Besmella Meriem**
-[GitHub](https://github.com/besmalam)  - [Email](mailto:your_email@example.com)
-
-**Mehenni May Fatma Zohra**
-[GitHub](https://github.com/may07082004)  - [Email](mailto:maymhenni1@gmail.com)  
-[GitHub](https://github.com/mayversion)    - [Email](mailto:maymhenni1@gmail.com)  
-
-Project Link: [https://github.com/Ahlamghribi/Advanced-Programming-Project](https://github.com/Ahlamghribi/Advanced-Programming-Project)  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
