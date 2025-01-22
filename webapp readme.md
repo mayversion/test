@@ -18,7 +18,7 @@ Transform your study sessions into engaging quiz adventures!
 
 <div align="center">
 
-[![Watch DevQuiz Demo](https://github.com/user-attachments/assets/e50290a8-3ed9-4281-b90f-d44e28c6d4e2)](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
+[![Watch DevQuiz Demo]](https://drive.google.com/drive/folders/1qvhvry2FRzZaXoFsFDNf_FM3N6unbSBG)
 
 **👆 Click to watch our demo video!**
 
